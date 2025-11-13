@@ -2,7 +2,7 @@
 
 This repository contains the code and analysis for the paper, "Diagnosing Long-Term Slight Overcharging in Lithium-Ion Batteries via Novel Electrochemical Features."
 
-![Framework-Graphic](ToC2.jpg)
+![Framework-Graphic](ToC.jpg)
 
 ---
 
