@@ -1,6 +1,6 @@
 # Diagnosing Long-Term Slight Overcharging in Lithium-Ion Batteries via Novel Electrochemical Features
 
-This repository contains the code and analysis for the paper, "Diagnosing Long-Term Slight Overcharging in Lithium-Ion Batteries via Novel Electrochemical Features."
+This repository accompanies the paper: **"Diagnosing Long-Term Slight Overcharging in Lithium-Ion Batteries via Novel Electrochemical Features"** (Journal of Energy Storage, 2026). [Read the full article here](https://www.sciencedirect.com/science/article/pii/S2352152X26022474).
 
 ![Framework-Graphic](ToC.jpg)
 
@@ -19,4 +19,21 @@ This project employs a **feature engineering** approach to extract physically me
 
 This approach allows the model to achieve high accuracy (98.68%) while remaining highly interpretable, as shown by the permutation feature importance analysis.
 
+## Citation
+
+If you use this code or the methodology in your research, please cite the following paper:
+
+```python
+@article{MOUSAVI2026122583,
+title = {Diagnosing long-term slight overcharging in commercial NMC lithium-ion batteries via novel electrochemical features},
+author = {Elaheh Sadat Ahmadi Mousavi and Farzaneh Abdollahi and Farshad Barazandeh and Farschad Torabi and Amin Hajizadeh},
+journal = {Journal of Energy Storage},
+volume = {168},
+pages = {122583},
+year = {2026},
+issn = {2352-152X},
+doi = {https://doi.org/10.1016/j.est.2026.122583},
+url = {https://www.sciencedirect.com/science/article/pii/S2352152X26022474},
+}
+```
 ---
